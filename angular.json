@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularQuete15"
+    }
+  },
+  "defaultProject": "angularQuete15",
+  "cli": {
+    "analytics": "ec7b82cb-3a2d-4d4e-b326-f7aec0e0c6af"
+  }
 }
